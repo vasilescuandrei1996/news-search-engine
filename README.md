@@ -9,4 +9,4 @@ The engine supports the next functionalities:
 •	c. Find articles that have a certain word in their title
 •	d. Implement a profile where users can save their queries
 
-Data will be introduced from console.
+Data will be introduced from console and I saved it in files.
